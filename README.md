@@ -22,7 +22,7 @@ This project provides a Typescript demo for uploading an image to Walrus storage
 Create a ```.env``` file: 
 ```
 WALRUS_BIN=
-WALRUS_CONFIG
+WALRUS_CONFIG=
 ```
 
 Directory Structure: 
